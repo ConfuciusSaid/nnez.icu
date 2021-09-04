@@ -1,2 +1,2 @@
 # nnez.icu
-nnez.icu domain release site and markdown files
+目前域名：https://nnez.icu
